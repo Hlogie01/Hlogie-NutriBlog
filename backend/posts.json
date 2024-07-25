@@ -1,0 +1,45 @@
+[
+    {
+      "id": "1",
+      "title": "The Art of Sourdough",
+      "image": "https://example.com/sourdough.jpg",
+      "content": "Discover the ancient art of sourdough bread making, from creating your own starter to baking a perfect loaf. Join us on a journey of flavor and tradition.",
+      "comments": []
+    },
+    {
+      "id": "2",
+      "title": "Gourmet Vegan Dishes",
+      "image": "https://example.com/vegan.jpg",
+      "content": "Explore a variety of gourmet vegan dishes that are not only delicious but also nutritious. Perfect for those looking to add more plant-based meals to their diet.",
+      "comments": []
+    },
+    {
+      "id": "3",
+      "title": "Chocolate Lover’s Dream",
+      "image": "https://example.com/chocolate.jpg",
+      "content": "Dive into the world of chocolate with our decadent recipes. From rich brownies to creamy truffles, satisfy your sweet tooth with these indulgent treats.",
+      "comments": []
+    },
+    {
+      "id": "4",
+      "title": "Summer Salads to Beat the Heat",
+      "image": "https://example.com/salad.jpg",
+      "content": "Refresh yourself with these vibrant summer salads. Packed with fresh ingredients and bold flavors, these salads are perfect for hot days.",
+      "comments": []
+    },
+    {
+      "id": "5",
+      "title": "Mastering the Grill",
+      "image": "https://example.com/grill.jpg",
+      "content": "Take your grilling skills to the next level with our expert tips and mouth-watering recipes. Perfect for summer barbecues and gatherings.",
+      "comments": []
+    },
+    {
+      "id": "6",
+      "title": "Cozy Winter Soups",
+      "image": "https://example.com/soup.jpg",
+      "content": "Warm up this winter with our collection of hearty soups. From classic chicken noodle to spicy chili, these recipes are sure to keep you cozy.",
+      "comments": []
+    }
+  ]
+  
