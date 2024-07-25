@@ -1,45 +1,38 @@
 [
-    {
-      "id": "1",
-      "title": "The Art of Sourdough",
-      "image": "https://example.com/sourdough.jpg",
-      "content": "Discover the ancient art of sourdough bread making, from creating your own starter to baking a perfect loaf. Join us on a journey of flavor and tradition.",
-      "comments": []
-    },
-    {
-      "id": "2",
-      "title": "Gourmet Vegan Dishes",
-      "image": "https://example.com/vegan.jpg",
-      "content": "Explore a variety of gourmet vegan dishes that are not only delicious but also nutritious. Perfect for those looking to add more plant-based meals to their diet.",
-      "comments": []
-    },
-    {
-      "id": "3",
-      "title": "Chocolate Lover’s Dream",
-      "image": "https://example.com/chocolate.jpg",
-      "content": "Dive into the world of chocolate with our decadent recipes. From rich brownies to creamy truffles, satisfy your sweet tooth with these indulgent treats.",
-      "comments": []
-    },
-    {
-      "id": "4",
-      "title": "Summer Salads to Beat the Heat",
-      "image": "https://example.com/salad.jpg",
-      "content": "Refresh yourself with these vibrant summer salads. Packed with fresh ingredients and bold flavors, these salads are perfect for hot days.",
-      "comments": []
-    },
-    {
-      "id": "5",
-      "title": "Mastering the Grill",
-      "image": "https://example.com/grill.jpg",
-      "content": "Take your grilling skills to the next level with our expert tips and mouth-watering recipes. Perfect for summer barbecues and gatherings.",
-      "comments": []
-    },
-    {
-      "id": "6",
-      "title": "Cozy Winter Soups",
-      "image": "https://example.com/soup.jpg",
-      "content": "Warm up this winter with our collection of hearty soups. From classic chicken noodle to spicy chili, these recipes are sure to keep you cozy.",
-      "comments": []
-    }
-  ]
-  
+  {
+    "id": 1,
+    "title": "AI-Powered Code Generation: The Future is Here",
+    "content": "Artificial Intelligence is transforming the way we write code. Tools like GitHub Copilot and OpenAI's Codex are revolutionizing the development process, making it faster and more efficient.",
+    "image": "https://example.com/ai-code-generation.jpg"
+  },
+  {
+    "id": 2,
+    "title": "JavaScript Frameworks: What's New in 2024?",
+    "content": "The JavaScript ecosystem continues to evolve with new frameworks and updates. This year, we've seen significant advancements in React, Vue, and Angular, making them more powerful and developer-friendly.",
+    "image": "https://example.com/js-frameworks-2024.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Quantum Computing: A Game Changer for Cryptography",
+    "content": "Quantum computing is set to revolutionize the field of cryptography. With the potential to break current encryption methods, developers need to be prepared for the new challenges and opportunities it brings.",
+    "image": "https://example.com/quantum-computing.jpg"
+  },
+  {
+    "id": 4,
+    "title": "The Rise of Low-Code and No-Code Platforms",
+    "content": "Low-code and no-code platforms are empowering non-developers to create applications quickly and easily. This trend is democratizing software development and accelerating digital transformation.",
+    "image": "https://example.com/low-code-platforms.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Rust: The Programming Language of the Future?",
+    "content": "Rust has been gaining popularity due to its performance and safety features. With major companies adopting Rust for system-level programming, it is becoming a strong contender in the programming world.",
+    "image": "https://example.com/rust-programming.jpg"
+  },
+  {
+    "id": 6,
+    "title": "The Importance of Cybersecurity in 2024",
+    "content": "With the increasing number of cyber threats, cybersecurity has become more critical than ever. Learn about the latest trends and technologies in cybersecurity to protect your applications and data.",
+    "image": "https://example.com/cybersecurity-2024.jpg"
+  }
+]
