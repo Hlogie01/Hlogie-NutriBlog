@@ -3,36 +3,42 @@
     "id": 1,
     "title": "AI-Powered Code Generation: The Future is Here",
     "content": "Artificial Intelligence is transforming the way we write code. Tools like GitHub Copilot and OpenAI's Codex are revolutionizing the development process, making it faster and more efficient.",
-    "image": "https://www.trndigital.com/wp-content/uploads/2024/01/AdobeStock_230441943-1038x576.jpeg"
+    "image": "https://www.trndigital.com/wp-content/uploads/2024/01/AdobeStock_230441943-1038x576.jpeg",
+    "comments": []
   },
   {
     "id": 2,
     "title": "JavaScript Frameworks: What's New in 2024?",
     "content": "The JavaScript ecosystem continues to evolve with new frameworks and updates. This year, we've seen significant advancements in React, Vue, and Angular, making them more powerful and developer-friendly.",
-    "image": "https://miro.medium.com/v2/resize:fit:720/format:webp/1*LyZcwuLWv2FArOumCxobpA.png"
+    "image": "https://miro.medium.com/v2/resize:fit:720/format:webp/1*LyZcwuLWv2FArOumCxobpA.png",
+    "comments": []
   },
   {
     "id": 3,
     "title": "Quantum Computing: A Game Changer for Cryptography",
     "content": "Quantum computing is set to revolutionize the field of cryptography. With the potential to break current encryption methods, developers need to be prepared for the new challenges and opportunities it brings.",
-    "image": "https://media.licdn.com/dms/image/D4D12AQELcLRhIrRWaw/article-cover_image-shrink_720_1280/0/1680594784827?e=1727308800&v=beta&t=mW_-WQChjyCb_L4eTBx8HDLa9e-puOukPMr0PhAMujw"
+    "image": "https://media.licdn.com/dms/image/D4D12AQELcLRhIrRWaw/article-cover_image-shrink_720_1280/0/1680594784827?e=1727308800&v=beta&t=mW_-WQChjyCb_L4eTBx8HDLa9e-puOukPMr0PhAMujw",
+    "comments": []
   },
   {
     "id": 4,
     "title": "The Rise of Low-Code and No-Code Platforms",
     "content": "Low-code and no-code platforms are empowering non-developers to create applications quickly and easily. This trend is democratizing software development and accelerating digital transformation.",
-    "image": "https://miro.medium.com/v2/resize:fit:720/format:webp/1*Fg18nHT81Ou23f0d2Os4Yw.png"
+    "image": "https://miro.medium.com/v2/resize:fit:720/format:webp/1*Fg18nHT81Ou23f0d2Os4Yw.png",
+    "comments": []
   },
   {
     "id": 5,
     "title": "Rust: The Programming Language of the Future?",
     "content": "Rust has been gaining popularity due to its performance and safety features. With major companies adopting Rust for system-level programming, it is becoming a strong contender in the programming world.",
-    "image": "https://media.licdn.com/dms/image/D5612AQG_VNcB7VI-Cw/article-cover_image-shrink_600_2000/0/1681973828533?e=2147483647&v=beta&t=Lk1HvaWbG8R1-4ivpg0qSj7fC5z-VsItGXrduXA_t7Y"
+    "image": "https://media.licdn.com/dms/image/D5612AQG_VNcB7VI-Cw/article-cover_image-shrink_600_2000/0/1681973828533?e=2147483647&v=beta&t=Lk1HvaWbG8R1-4ivpg0qSj7fC5z-VsItGXrduXA_t7Y",
+    "comments": []
   },
   {
     "id": 6,
     "title": "The Importance of Cybersecurity in 2024",
     "content": "With the increasing number of cyber threats, cybersecurity has become more critical than ever. Learn about the latest trends and technologies in cybersecurity to protect your applications and data.",
-    "image": "https://th.bing.com/th/id/OIP.ifBk6-Tu3bk2ZcZuoTwrMgHaD4?rs=1&pid=ImgDetMain"
+    "image": "https://th.bing.com/th/id/OIP.ifBk6-Tu3bk2ZcZuoTwrMgHaD4?rs=1&pid=ImgDetMain",
+    "comments": []
   }
 ]
