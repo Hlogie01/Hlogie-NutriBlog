@@ -43,7 +43,7 @@ app.get("/posts/:id", (req, res) => {
 // Create a new post
 app.post("/posts", (req, res) => {
   const posts = readPosts();
-  const newId = posts.length > 0 ? Math.max(...posts.map(p => p.id)) + 1 : 1;
+  const newId = posts.length > 0 ? Math.max(...posts.map((p) => p.id)) + 1 : 1;
   const newPost = { id: newId, ...req.body, comments: [] };
   posts.push(newPost);
   writePosts(posts);
@@ -57,13 +57,27 @@ app.post("/posts/:id/comments", (req, res) => {
   const post = posts.find((p) => p.id === Number(id));
   if (post) {
     if (req.body.text) {
-      const newComment = { comment: req.body.text };
+      const newComment = { text: req.body.text };
       post.comments.push(newComment);
       writePosts(posts);
       res.status(201).json(newComment);
     } else {
       res.status(400).json({ message: "Comment text is required" });
     }
+  } else {
+    res.status(404).json({ message: "Post not found" });
+  }
+});
+
+// Delete all comments from a post
+app.delete("/posts/:id/comments", (req, res) => {
+  const { id } = req.params;
+  const posts = readPosts();
+  const post = posts.find((p) => p.id === Number(id));
+  if (post) {
+    post.comments = [];
+    writePosts(posts);
+    res.status(200).json({ message: "All comments deleted" });
   } else {
     res.status(404).json({ message: "Post not found" });
   }
